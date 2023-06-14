@@ -1,6 +1,6 @@
 
 
-| <div align="center"><img src="https://nathanyor.io/spinning-ball.webp#center" width="50%" height="50%" /></div> | <p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nathan-Yorio&repo=Small-Shell-Scripts&theme=vue-dark&hide_border=false" width="100%"></p> | <p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nathan-Yorio&repo=Obs-VaultAttachMerge&theme=vue-dark&hide_border=false" width="100%"></p> | <div align="center"><img src="https://nathanyor.io/spinning-ball.webp#center" width="50%" height="50%" /></div> |
+| <div align="center"><img src="https://nathanyor.io/spinning-ball.webp#center" width="90%" height="90%" /></div> | <p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nathan-Yorio&repo=Small-Shell-Scripts&theme=vue-dark&hide_border=false" width="100%"></p> | <p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nathan-Yorio&repo=Obs-VaultAttachMerge&theme=vue-dark&hide_border=false" width="100%"></p> | <div align="center"><img src="https://nathanyor.io/spinning-ball.webp#center" width="90%" height="90%" /></div> |
 | --- | --- | --- | --- |
 
 <p align="center">
