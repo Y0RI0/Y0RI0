@@ -1,4 +1,4 @@
-### Hi there 👋
+### Currently trying to come up with ideas for 🦆Scripts that are actually useful 🫠
 
 <!--
 **Nathan-Yorio/Nathan-Yorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
