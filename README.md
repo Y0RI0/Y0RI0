@@ -3,8 +3,8 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Yorio&layout=compact&theme=vue-dark&langs_count=6"width="18%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nathan-Yorio&theme=vue-dark&hide_border=false" width="25%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Yorio&layout=compact&theme=vue-dark&langs_count=6"width="28.75%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nathan-Yorio&theme=vue-dark&hide_border=false" width="40%">
 
 </p>
 
