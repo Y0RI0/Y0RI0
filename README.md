@@ -1,12 +1,13 @@
-<div align="center">
-<img src="https://nathanyor.io/spinning-ball.webp#center" width="75" height="75" />
-</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Yorio&layout=compact&theme=vue-dark&langs_count=6"width="28.75%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nathan-Yorio&theme=vue-dark&hide_border=false" width="40%">
 
-</p>
+| <div align="center"><img src="https://nathanyor.io/spinning-ball.webp#center" width="75%" height="75%" /></div> | | | <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Yorio&layout=compact&theme=vue-dark&langs_count=6" width="100%"></p> | <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nathan-Yorio&theme=vue-dark&hide_border=false" width="82%"></p> | | | <div align="center"><img src="https://nathanyor.io/spinning-ball.webp#center" width="75%" height="75%" /></div> | 
+| ----- | ----- | ----- | ----- | -----| ----- | ----- | ----- |
+
+| <p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nathan-Yorio&repo=Small-Shell-Scripts&theme=vue-dark&hide_border=false" width="100%"></p> | <p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nathan-Yorio&repo=ova_to_qcow2&theme=vue-dark&hide_border=false" width="100%"></p> | <p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nathan-Yorio&repo=Obs-VaultAttachMerge&theme=vue-dark&hide_border=false" width="100%"></p> |
+| --- | --- | --- |
+
+
+
 
 <!--- 
 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
