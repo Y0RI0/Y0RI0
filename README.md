@@ -12,7 +12,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Yorio&layout=compact&theme=vue-dark&langs_count=6" width="32%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nathan-Yorio&theme=vue-dark&hide_border=false" width="44.5%">
 </p>
 
 <p align="center" font-size:12>
