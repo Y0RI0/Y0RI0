@@ -10,7 +10,7 @@
 </p>
 
 
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Yorio&layout=compact&theme=vue-dark&langs_count=6" width="32%"> | <img src="![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nathan-Yorio&show_icons=true&theme=vue-dark)" width="100%"> |
+| <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Yorio&layout=compact&theme=vue-dark&langs_count=6" width="32%"></p> | <p align="center"><img src="![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nathan-Yorio&show_icons=true&theme=vue-dark)" width="100%"></p> |
 | --- | --- |
 
 <p align="center" font-size:12>
