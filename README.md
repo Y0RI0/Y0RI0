@@ -1,8 +1,8 @@
 <p align="center" font-size:12>
-✏️ Status: Trying to come up with ideas for useful 🦆 DuckyScripts ✏️
+✏️ Status: Still trying to come up with ideas for useful 🦆 DuckyScripts ✏️ , also trying to learn Pytorch 🔦 for thesis
 </p>
 
-| <div align="center"><img src="https://nathanyor.io/spinning-ball.webp#center" width="90%" height="90%" /></div> | <p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nathan-Yorio&repo=Small-Shell-Scripts&theme=vue-dark&hide_border=false" width="100%"></p> | <p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nathan-Yorio&repo=Obs-VaultAttachMerge&theme=vue-dark&hide_border=false" width="100%"></p> | <div align="center"><img src="https://nathanyor.io/spinning-ball.webp#center" width="90%" height="90%" /></div> |
+| <div align="center"><img src="https://nathanyor.io/spinning-ball.webp#center" width="90%" height="90%" /></div> | <p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nathan-Yorio&repo=obsidian-autotocgen-hack&theme=vue-dark&hide_border=false" width="100%"></p> | <p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nathan-Yorio&repo=bubbletea-prime-finder&theme=vue-dark&hide_border=false" width="100%"></p> | <div align="center"><img src="https://nathanyor.io/spinning-ball.webp#center" width="90%" height="90%" /></div> |
 | --- | --- | --- | --- |
 
 <p align="center" font-size:12>
