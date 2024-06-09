@@ -1,22 +1,14 @@
 <p align="center" font-size:12>
-✏️ Status: Still trying to come up with ideas for useful 🦆 DuckyScripts ✏️ , also trying to learn Pytorch 🔦 for thesis
-</p>
-
-| <div align="center"><img src="https://nathanyor.io/spinning-ball.webp#center" width="90%" height="90%" /></div> | <p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nathan-Yorio&repo=obsidian-autotocgen-hack&theme=vue-dark&hide_border=false" width="100%"></p> | <p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nathan-Yorio&repo=bubbletea-prime-finder&theme=vue-dark&hide_border=false" width="100%"></p> | <div align="center"><img src="https://nathanyor.io/spinning-ball.webp#center" width="90%" height="90%" /></div> |
-| --- | --- | --- | --- |
-
-<p align="center" font-size:12>
-"Recent" Highlights
+✏️ Status: Still trying to come up with ideas for useful 🦆 DuckyScripts ✏️ , Thesis is finally done, checkout code in pins :) 
 </p>
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Yorio&layout=compact&theme=vue-dark&langs_count=6" width="32%"></p> 
+<div align="center">
 
+| <div align="center"><img src="https://nathanyor.io/spinning-ball.webp#center" width="90%" height="90%" /></div> | <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Yorio&layout=compact&theme=vue-dark&langs_count=6" width="100%"></div> | <div align="center"><img src="https://nathanyor.io/spinning-ball.webp#center" width="90%" height="90%" /></div> |
+| --- | --- | --- |
 
-<p align="center" font-size:12>
-Stats
-</p>
-
+</div>
 
 <!--- 
 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
