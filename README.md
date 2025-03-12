@@ -1,6 +1,6 @@
 <div align="center">
 
-| <div align="center"><img src="https://nathanyor.io/spinning-ball.webp#center" width="90%" height="90%" /></div> | <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Yorio&layout=compact&theme=vue-dark&langs_count=6" width="100%"></div> | <div align="center"><img src="https://nathanyor.io/spinning-ball.webp#center" width="90%" height="90%" /></div> |
+| <div align="center"><img src="https://nathanyor.io/spinning-ball.webp#center" width="90%" height="90%" /></div> | <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y0RI0&layout=compact&theme=vue-dark&langs_count=6" width="100%"></div> | <div align="center"><img src="https://nathanyor.io/spinning-ball.webp#center" width="90%" height="90%" /></div> |
 | --- | --- | --- |
 
 </div>
