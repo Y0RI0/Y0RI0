@@ -1,7 +1,7 @@
 <div align="center">
 
-|     | <div align="center"><img src="https://https://github-stats-extended.vercel.app/api/top-langs/?username=Y0RI0&layout=compact&theme=vue-dark&langs_count=6" width="100%"></div> |     |
-| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+|     | <div align="center"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Y0RI0&layout=compact&theme=vue-dark&langs_count=6" width="100%"></div> |     |
+| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
 
 </div>
 
